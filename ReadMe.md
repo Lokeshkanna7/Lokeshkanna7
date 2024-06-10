@@ -1,5 +1,4 @@
 ### Hi there 👋,I'm Lokesh
-#### Geospatial Data Engineer 
 
 # 💫 About Me:
 🔭 I am currently enrolled as a Master's student at the University at Buffalo, having completed my Bachelor's degree in Geoinformatics from Anna University.<br><br>🌱 I am enhancing my skills in machine learning 🤖 and deep learning, with a focus on large language models (LLMs) 🧠 and computer vision 👁️.<br><br>🥅 Goals: Explore the more and more research of Computer vision, Deep learning, NLP, Time Series Analysis, Audio Deep learning, Satellite Image Segmentation etc.<br><br>⚡ Fun fact: I love to code.
