@@ -1,4 +1,4 @@
-### Hi there 👋, Hi I'm Lokesh
+### Hi there 👋,I'm Lokesh
 #### Geospatial Data Engineer 
 
 # 💫 About Me:
