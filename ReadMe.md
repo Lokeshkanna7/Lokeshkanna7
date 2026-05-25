@@ -1,7 +1,25 @@
-### Hi there 👋,I'm Lokesh
+# Hi there, I'm Lokesh! 👋
 
-# 💫 About Me:
-🔭 I am currently enrolled as a Master's student at the University at Buffalo, having completed my Bachelor's degree in Geoinformatics from Anna University.<br><br>🌱 I am enhancing my skills in machine learning 🤖 and deep learning, with a focus on large language models (LLMs) 🧠 and computer vision 👁️.<br><br>🥅 Goals: Explore the more and more research of Computer vision, Deep learning, NLP, Time Series Analysis, Audio Deep learning, Satellite Image Segmentation etc.<br><br>⚡ Fun fact: I love to code.
+Data Professional specializing in building scalable data infrastructure, cloud ETL pipelines, and intelligent AI/ML systems. I bridge the gap between advanced data science, spatial analytics, and machine learning workflows.
+
+## 🔭 Current Focus & Industry Experience
+- **Data Engineering:** Architecting automated cloud ETL pipelines (AWS S3, Redshift), REST API ingestion frameworks, and end-to-end data integrity systems.
+- **Computer Vision & Deep Learning:** Engineering self-supervised preprocessing pipelines, generative modeling, and containerized (Docker) CNNs for industrial defect detection.
+- **Geospatial & Time Series:** Processing multi-modal datasets, NetCDF satellite data (GRACE/GLDAS), and building spatiotemporal models.
+
+## 🧠 Technical Notebook
+- 🤖 **Deep Learning & GenAI:** PyTorch, Self-Supervised Learning, RAG Systems, Generative Modeling.
+- 👁️ **Computer Vision:** Image enhancement, denoising, object detection, and satellite image segmentation.
+- 📈 **Time Series & Signal:** Hydrological trend analysis, sensor telemetry processing, and audio/signal deep learning.
+
+## 🥅 Research & Development Goals
+- [ ] Scaling geometric and spatial deep learning architectures for large-scale multi-modal datasets.
+- [ ] Optimizing preprocessing latency for high-variance sensor and real-time telemetry pipelines.
+- [ ] Exploring advanced downstream evaluation metrics (FID, Inception Score) in generative modeling and LLM/RAG workflows.
+
+---
+
+💼 **Let's Connect:** [Your Portfolio Website Link] | [Your LinkedIn Link]
 
 
 ## 🌐 Socials:
