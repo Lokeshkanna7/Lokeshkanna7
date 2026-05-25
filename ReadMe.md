@@ -19,7 +19,7 @@ Data Professional specializing in building scalable data infrastructure, cloud E
 
 ---
 
-💼 **Let's Connect:** [Your Portfolio Website Link] | [Your LinkedIn Link]
+💼 **Let's Connect:** [[Your Portfolio Website Link](https://lokeshkanna7.github.io/Lokesh-kanna-rajaram/)]
 
 
 ## 🌐 Socials:
