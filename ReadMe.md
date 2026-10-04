@@ -25,15 +25,6 @@
 
 ### 📌 Featured Projects
 
-#### 🤖 [Student Lease Break Advisor — GenAI + RAG System](Link)[cite: 1]
-- Developed a production-grade legal assistant using **Gemini**, **LangChain**, **FAISS**, and **Streamlit** to evaluate lease agreements against state laws[cite: 1].
-- Enforced citation-backed retrieval logic, reducing unsupported LLM responses by ~70%[cite: 1].
-- Built a rate-limit-aware embedding pipeline with batched semantic indexing to optimize API calls[cite: 1].
-
-#### 📊 [Amazon Book Review — Big Data Pipeline](Link)[cite: 1]
-- Built an end-to-end distributed analytics pipeline using **Hadoop** and **PySpark** to ingest and process 1M+ book reviews[cite: 1].
-- Engineered scalable NLP features (Tokenizer, StopWordsRemover, HashingTF, IDF) with **Spark ML**, boosting training efficiency by 40% with 90.4% classification accuracy[cite: 1].
-
 ---
 
 ### 💼 Recent Experience Highlights
