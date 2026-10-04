@@ -1,22 +1,50 @@
-# Hi there, I'm Lokesh! 👋
+# Hi there, I'm Lokesh Kanna Rajaram 👋
 
-Data Professional specializing in building scalable data infrastructure, cloud ETL pipelines, and intelligent AI/ML systems. I bridge the gap between advanced data science, spatial analytics, and machine learning workflows.
+**Generative AI Engineer & Data Scientist** | Specializing in production-grade RAG, LLM applications, and end-to-end AI/ML pipelines[cite: 1].
 
-## 🔭 Current Focus & Industry Experience
-- **Data Engineering:** Architecting automated cloud ETL pipelines (AWS S3, Redshift), REST API ingestion frameworks, and end-to-end data integrity systems.
-- **Computer Vision & Deep Learning:** Engineering self-supervised preprocessing pipelines, generative modeling, and containerized (Docker) CNNs for industrial defect detection.
-- **Geospatial & Time Series:** Processing multi-modal datasets, NetCDF satellite data (GRACE/GLDAS), and building spatiotemporal models.
+---
 
-## 🧠 Technical Notebook
-- 🤖 **Deep Learning & GenAI:** PyTorch, Self-Supervised Learning, RAG Systems, Generative Modeling.
-- 👁️ **Computer Vision:** Image enhancement, denoising, object detection, and satellite image segmentation.
-- 📈 **Time Series & Signal:** Hydrological trend analysis, sensor telemetry processing, and audio/signal deep learning.
+### 🚀 About Me
 
-## 🥅 Research & Development Goals
-- [ ] Scaling geometric and spatial deep learning architectures for large-scale multi-modal datasets.
-- [ ] Optimizing preprocessing latency for high-variance sensor and real-time telemetry pipelines.
-- [ ] Exploring advanced downstream evaluation metrics (FID, Inception Score) in generative modeling and LLM/RAG workflows.
+- 🔭 **Current Role:** Data Analyst at the **City of Houston**, engineering REST API pipelines and Redshift ETL workflows for infrastructure analytics[cite: 1].
+- 🔬 **Research:** Research Scientist Volunteer at **University at Buffalo (SMILE Lab)**, developing GAN/DNN architectures for ultrasound image enhancement and real-time clinical workflows[cite: 1].
+- 🎓 **Education:** Master of Science in Data Science from **University at Buffalo**[cite: 1].
+- 💡 **Core Focus:** Building low-hallucination, citation-grounded GenAI systems, computer vision systems, and distributed big data pipelines[cite: 1].
 
+---
+
+### 🛠️ Technical Skills
+
+- **Languages & Frameworks:** Python, PyTorch, R, SQL, LangChain, OpenCV, SciPy, Pandas, NumPy[cite: 1]
+- **Big Data & Data Engineering:** Apache Spark, PySpark, Hadoop, Kafka, AWS Redshift, MongoDB, MySQL, PostgreSQL[cite: 1]
+- **Cloud & DevOps:** AWS, Docker, Vector Databases (FAISS), REST APIs, Git/GitHub[cite: 1]
+- **Analytics & Visualization:** PowerBI, Tableau, ArcGIS Pro, R Shiny[cite: 1]
+- **Certifications:** AWS Cloud Practitioner (CLF-C02) | Informatica Cloud (IICS)[cite: 1]
+
+---
+
+### 📌 Featured Projects
+
+#### 🤖 [Student Lease Break Advisor — GenAI + RAG System](Link)[cite: 1]
+- Developed a production-grade legal assistant using **Gemini**, **LangChain**, **FAISS**, and **Streamlit** to evaluate lease agreements against state laws[cite: 1].
+- Enforced citation-backed retrieval logic, reducing unsupported LLM responses by ~70%[cite: 1].
+- Built a rate-limit-aware embedding pipeline with batched semantic indexing to optimize API calls[cite: 1].
+
+#### 📊 [Amazon Book Review — Big Data Pipeline](Link)[cite: 1]
+- Built an end-to-end distributed analytics pipeline using **Hadoop** and **PySpark** to ingest and process 1M+ book reviews[cite: 1].
+- Engineered scalable NLP features (Tokenizer, StopWordsRemover, HashingTF, IDF) with **Spark ML**, boosting training efficiency by 40% with 90.4% classification accuracy[cite: 1].
+
+---
+
+### 💼 Recent Experience Highlights
+
+- **City of Houston** *(Data Analyst)*: Automated REST API ingestion & Redshift ETLs across 6,200 miles of telemetry data, accelerating raw data acquisition by 40%[cite: 1].
+- **UB SMILE Lab** *(Research Scientist Volunteer)*: Designed GAN/DNN image enhancement models achieving 50ms inference latency for live point-of-care ultrasound workflows[cite: 1].
+- **Nissha Medical Technologies** *(CV Data Scientist Intern)*: Deployed a real-time YOLOv8 and PyTorch defect detection pipeline under strict latency constraints, reducing unplanned downtime by 12%[cite: 1].
+
+---
+
+### 📫 Connect with Me
 ---
 
 💼 **Let's Connect:** [[Portfolio Website Link](https://lokeshkanna7.github.io/Lokesh-kanna-rajaram/)]
